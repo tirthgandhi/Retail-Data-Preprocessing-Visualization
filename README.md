@@ -675,8 +675,7 @@ Data Visualization
 ### **Your Name**
 
 🎓 B.Tech Computer Science Engineering
-🔐 Specialization: Cyber Security
-📚 APEX FDP — Week 1
+🔐 Specialization: AIML/DSE
 💻 Retail Data Analysis Project
 
 ---
